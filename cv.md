@@ -54,3 +54,8 @@ function calc (num1,num2,sign){
 }
 ```
 ***
+## Education
+***
+- **University:** Belarusian State University of Informatics and Radioelectronics (BSUIR), specialty telecommunications engineer (telecommunications networks and devices)
+
+***

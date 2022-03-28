@@ -59,3 +59,7 @@ function calc (num1,num2,sign){
 - **University:** Belarusian State University of Informatics and Radioelectronics (BSUIR), specialty telecommunications engineer (telecommunications networks and devices)
 
 ***
+## Languages
+- Russian
+- Belarusian
+- English A1 ( I try to learn English in every possible way. I use application in smartphone: Duolingo and I use google translate a lot.)
